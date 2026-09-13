@@ -16,9 +16,8 @@ Open the official mobile link in Chrome, Safari, Brave, or Edge:
 
 > **PWA Tip:** Tap the browser menu (**⋮** or Share) and select **"Add to Home screen"** to install it as a standalone fullscreen app with offline caching!
 
-### 2. Native Android APK Downloads
-- 📥 **[Download Skibidi_Toilet_Defense_Vulkan.apk](./Skibidi_Toilet_Defense_Vulkan.apk)** (Optimized Vulkan Android Build - ~4.1 MB)
-- 📥 **[Download Skibidi_Toilet_Defense_Standalone.apk](./Skibidi_Toilet_Defense_Standalone.apk)** (Standalone WebView Build - ~3.8 MB)
+### 2. Native Android APK Download
+- 📥 **[Download Skibidi_Toilet_Defense_Vulkan.apk](./Skibidi_Toilet_Defense_Vulkan.apk)** (Official Standalone Vulkan Android Build - ~4.1 MB)
 
 ---
 
